@@ -1,13 +1,13 @@
 body {
 
-	font-family: 'Lato', sans-serif;
-	color:#747704;
+	font-family: "Lato", sans-serif;
+	color: #747704;
 	font-weight: 300;
 }
 
 hr {
 
-	border: 3px solid #BCBBBB;
+	border: 3px solid #bcbbbb;
 }
 
 .text-muted {
